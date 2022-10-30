@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Righteous&family=Roboto+Serif:opsz,wght@8..144,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Carter One', cursive;
+}
+
+body {
+    background-color: #ff7750;
+}
+
+header {
+    width: 100%;
+    height: 95px;
+    display: flex;
+    padding: 0 48px;
+
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #ffe99f;
+}
+
+.links{
+    display: flex;
+    margin-left: 820px;
+    gap: 20px;
+}
+
+.links a{
+    color: #15202b;
+    text-decoration: none;
+    font-size: 18px;
+
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+}
+
+.page_content{
+    margin-left: -115px;
+}
+
+.conteudo__principal {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px 30px;
+    align-items: center;
+    align-content: center;
+}
+
+.game__tittle {
+    align-self: center;
+    margin-left: 445px;
+    margin-top: 15px;
+    color: #fcfcfc;
+    font-size: 96px;
+}
+
+.game__controls {
+    margin-top: 15px;
+    margin-left: 215px;
+    width: 298px;
+    height: 296px;
+}
+
+.game__character {
+    display: block;
+    margin-top: -280px;
+    margin-left: 565px;
+}
+
+.game__arrows {
+    display: block;
+    margin-top: -280px;
+    margin-left: 1062px;
+    width: 298px;
+    height: 296px;
+}
+
+
+
+.game__button {
+    display: flex;
+    width: 375px;
+    height: 75px;
+    border-radius: 8px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #fcfcfc;
+    font-size: 26px;
+    text-decoration: none;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 582px;
+    background-color: #0055ae;
+}
+
+.game__button:hover {
+    box-shadow: 10px 5px 5px black;
+    background-color: #20e565;
+
+}
+
+/* .conteudo__principal img{
+    width: 450px;
+    height: 450px;
+} */
+
+.conteudo__principal h1 {
+    font-size: 70px;
+    color: #fcfcfc;
+}
+
+
+
+.btn {
+    width: 350px;
+    height: 150px;
+    background-color: transparent;
+
+
+}
+
+/* .btn a {
+    color: #fcfcfc;
+    font-size: 26px;
+    text-decoration: none;
+} */
