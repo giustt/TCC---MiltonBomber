@@ -85,7 +85,7 @@ scene('game', ({ level, score }) => {
       'bwbwbwbwbwbwb b',
       'bwwww* wwwwwwwb',
       'bwbwbwbwb bwb b',
-      'b wwwwww}}www b',
+      'b wwwwwww}www b',
       'b bwbwbwb bwbpb',
       'b  wwwwwwwwwwwb',
       'b bwbwbwbwbwbwb',
@@ -93,6 +93,23 @@ scene('game', ({ level, score }) => {
       'bwbwbwbwbwbwbwb',
       'bwwwww   &   wb',
       'bbbbbbbbbbbbbbb',
+    ],
+    [   
+      'abababababababa',
+      'bzwwz  *wwwwwwb',
+      'awbdawbzawbabaa',
+      'bwdwadw *   abb',
+      'az bzbwbzbwbwza',
+      'bwzzw* wzwwwzwb',
+      'azbwbzbwb bza}a',
+      'b wwzwwzw}zzw b',
+      'a awbwawa awbpa',
+      'b  wzwzzwwzwzwb',
+      'a bwazbwbzawbwa',
+      'bwwz  &   zwwzb',
+      'awazbwbzazbwaza',
+      'bzwzwz   &   wb',
+      'abababababababa',
     ]
   ]
 
